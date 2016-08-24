@@ -1,0 +1,14 @@
+G:\projects\UWPSlider\WebViewSlider\WebViewSlider\bin\Debug\WebViewSlider.exe.config
+G:\projects\UWPSlider\WebViewSlider\WebViewSlider\obj\Debug\WebViewSlider.csprojResolveAssemblyReference.cache
+G:\projects\UWPSlider\WebViewSlider\WebViewSlider\obj\Debug\MainWindow.g.cs
+G:\projects\UWPSlider\WebViewSlider\WebViewSlider\obj\Debug\App.g.cs
+G:\projects\UWPSlider\WebViewSlider\WebViewSlider\obj\Debug\WebViewSlider_MarkupCompile.cache
+G:\projects\UWPSlider\WebViewSlider\WebViewSlider\obj\Debug\WebViewSlider_MarkupCompile.lref
+G:\projects\UWPSlider\WebViewSlider\WebViewSlider\bin\Debug\WebViewSlider.exe
+G:\projects\UWPSlider\WebViewSlider\WebViewSlider\bin\Debug\WebViewSlider.pdb
+G:\projects\UWPSlider\WebViewSlider\WebViewSlider\obj\Debug\MainWindow.baml
+G:\projects\UWPSlider\WebViewSlider\WebViewSlider\obj\Debug\WebViewSlider.g.resources
+G:\projects\UWPSlider\WebViewSlider\WebViewSlider\obj\Debug\WebViewSlider.Properties.Resources.resources
+G:\projects\UWPSlider\WebViewSlider\WebViewSlider\obj\Debug\WebViewSlider.csproj.GenerateResource.Cache
+G:\projects\UWPSlider\WebViewSlider\WebViewSlider\obj\Debug\WebViewSlider.exe
+G:\projects\UWPSlider\WebViewSlider\WebViewSlider\obj\Debug\WebViewSlider.pdb
